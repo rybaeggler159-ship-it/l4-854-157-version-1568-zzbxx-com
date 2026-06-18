@@ -1,0 +1,19 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2014,
+  "category_assignment_total": 2000,
+  "analytics_pages": 2014,
+  "category_counts": {
+    "selected-western": 200,
+    "hot-movies": 200,
+    "quality-series": 200,
+    "action-suspense": 200,
+    "love-comedy": 200,
+    "drama-family": 200,
+    "animation-doc": 200,
+    "asia-picks": 200,
+    "classic-cinema": 200,
+    "new-release": 200
+  }
+}
